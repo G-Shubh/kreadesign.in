@@ -160,7 +160,7 @@ body{
   .footer-contact {
     font: 400 18px/2 "Muller", "Verdana", "sans-serif";
     color: #f3f3f3;
-    
+    padding-top: 2em;
   }
 
   .footer-contact > * {
