@@ -1,0 +1,1036 @@
+[
+  {
+    "name" : "60 THE APARTMENTS",
+    "images" : [
+      {
+          "src": "./images/58 PUSHP APARTMENTS GUEST BEDROOM/01.png",
+          "alt": "bedroom1"
+        },
+        {
+          "src": "./images/58 PUSHP APARTMENTS GUEST BEDROOM/02.png",
+          "alt": "bedroom2"
+        }
+    ]
+  },  
+  
+  {
+      "name" : "58 PUSHP APARTMENTS GUEST BEDROOM",
+      "images" : [
+        {
+            "src": "./images/58 PUSHP APARTMENTS GUEST BEDROOM/01.png",
+            "alt": "bedroom1"
+          },
+          {
+            "src": "./images/58 PUSHP APARTMENTS GUEST BEDROOM/02.png",
+            "alt": "bedroom2"
+          },
+          {
+            "src": "./images/58 PUSHP APARTMENTS GUEST BEDROOM/03.png",
+            "alt": "bedroom3"
+          }
+      ]
+    },
+
+    {
+      "name" : "59 PUSHP APARTMENTS KIDS ROOM",
+      "images" : [
+        {
+            "src": "./images/59 PUSHP APARTMENTS KIDS ROOM/01.png",
+            "alt": "bedroom1"
+          },
+          {
+            "src": "./images/59 PUSHP APARTMENTS KIDS ROOM/02.png",
+            "alt": "bedroom2"
+          },
+          {
+            "src": "./images/59 PUSHP APARTMENTS KIDS ROOM/03.png",
+            "alt": "bedroom3"
+          },
+          {
+            "src": "./images/59 PUSHP APARTMENTS KIDS ROOM/04.png",
+            "alt": "bedroom3"
+          }
+      ]
+    },
+
+    {
+      "name" : "57 PUSHP APARTMENTS MASTER BEDROOM",
+      "images" : [
+        {
+            "src": "./images/57 PUSHP APARTMENTS MASTER BEDROOM/01.png",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/57 PUSHP APARTMENTS MASTER BEDROOM/02.png",
+            "alt": "room2"
+          },
+          {
+            "src": "./images/57 PUSHP APARTMENTS MASTER BEDROOM/03.png",
+            "alt": "room3"
+          },
+          {
+            "src": "./images/57 PUSHP APARTMENTS MASTER BEDROOM/04.png",
+            "alt": "room3"
+          }
+      ]
+    },
+
+    {
+      "name" : "55 PUSHP APERTMENTS DRAWING AND DINING",
+      "images" : [
+        {
+            "src": "./images/55 PUSHP APERTMENTS DRAWING AND DINING/01.png",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/55 PUSHP APERTMENTS DRAWING AND DINING/02.png",
+            "alt": "room2"
+          },
+          {
+            "src": "./images/55 PUSHP APERTMENTS DRAWING AND DINING/03.png",
+            "alt": "room3"
+          },
+          {
+            "src": "./images/55 PUSHP APERTMENTS DRAWING AND DINING/04.png",
+            "alt": "room3"
+          },
+          {
+            "src": "./images/55 PUSHP APERTMENTS DRAWING AND DINING/06.png",
+            "alt": "room3"
+          },
+          {
+            "src": "./images/55 PUSHP APERTMENTS DRAWING AND DINING/07.png",
+            "alt": "room3"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "55 PUSHP APARTMENTS KITCHEN",
+      "images" : [
+        {
+            "src": "./images/55 PUSHP APARTMENTS KITCHEN/06.png",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/55 PUSHP APARTMENTS KITCHEN/07.png",
+            "alt": "room2"
+          }
+      ]
+    },
+
+    {
+      "name" : "54 MODI PUJA ROOM",
+      "images" : [
+          {
+            "src": "./images/54 MODI PUJA ROOM/03.png",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/54 MODI PUJA ROOM/04.png",
+            "alt": "room2"
+          },
+          {
+            "src": "./images/54 MODI PUJA ROOM/05.png",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/54 MODI PUJA ROOM/06.png",
+            "alt": "room2"
+          }
+      ]
+    },
+
+    {
+      "name" : "54 MODI KITCHEN",
+      "images" : [
+          {
+            "src": "./images/54 MODI KITCHEN/23.png",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/54 MODI KITCHEN/24.png",
+            "alt": "room2"
+          },
+          {
+            "src": "./images/54 MODI KITCHEN/25.png",
+            "alt": "room1"
+          }
+      ]
+    },
+
+    {
+      "name" : "54 MODI GALLERY",
+      "images" : [
+          {
+            "src": "./images/54 MODI GALLERY/14.png",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/54 MODI GALLERY/15.png",
+            "alt": "room2"
+          },
+          {
+            "src": "./images/54 MODI GALLERY/20.png",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/54 MODI GALLERY/21.png",
+            "alt": "room2"
+          },
+          {
+            "src": "./images/54 MODI GALLERY/22.png",
+            "alt": "room2"
+          }
+      ]
+    },
+
+    {
+      "name" : "54 MODI DRAWING AND DINING",
+      "images" : [
+          {
+            "src": "./images/54 MODI DRAWING AND DINING/07.png",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/54 MODI DRAWING AND DINING/08.png",
+            "alt": "room2"
+          },
+          {
+            "src": "./images/54 MODI DRAWING AND DINING/09.png",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/54 MODI DRAWING AND DINING/10.png",
+            "alt": "room2"
+          }
+      ]
+    },
+
+    {
+      "name" : "53 G3 BUNGALOW BEDROOM12",
+      "images" : [
+          {
+            "src": "./images/53 G3 BUNGALOW BEDROOM12/01.png",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/53 G3 BUNGALOW BEDROOM12/02.png",
+            "alt": "room2"
+          }
+      ]
+    },
+
+    {
+      "name" : "53 G3 BUNGALOW BEDROOM345",
+      "images" : [
+          {
+            "src": "./images/53 G3 BUNGALOW BEDROOM345/03.png",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/53 G3 BUNGALOW BEDROOM345/04.png",
+            "alt": "room2"
+          },
+          {
+            "src": "./images/53 G3 BUNGALOW BEDROOM345/05.png",
+            "alt": "room2"
+          }
+      ]
+    },
+
+    {
+      "name" : "53 G3 BUNGALOW BEDROOM678",
+      "images" : [
+          {
+            "src": "./images/53 G3 BUNGALOW BEDROOM678/06.png",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/53 G3 BUNGALOW BEDROOM678/07.png",
+            "alt": "room2"
+          },
+          {
+            "src": "./images/53 G3 BUNGALOW BEDROOM678/08.png",
+            "alt": "room2"
+          }
+      ]
+    },
+
+    {
+      "name" : "53 G3 BUNGALOW BEDROOM910",
+      "images" : [
+          {
+            "src": "./images/53 G3 BUNGALOW BEDROOM910/09.png",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/53 G3 BUNGALOW BEDROOM910/10.png",
+            "alt": "room2"
+          }
+      ]
+    },
+
+    {
+      "name" : "52 G3 BUNGALOW DRAWING AND DINING",
+      "images" : [
+          {
+            "src": "./images/52 G3 BUNGALOW DRAWING AND DINING/01.png",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/52 G3 BUNGALOW DRAWING AND DINING/02.png",
+            "alt": "room2"
+          },
+          {
+            "src": "./images/52 G3 BUNGALOW DRAWING AND DINING/03.png",
+            "alt": "room2"
+          }
+      ]
+    },
+
+    {
+      "name" : "52 G3 BUNGALOW KITCHEN",
+      "images" : [
+          {
+            "src": "./images/52 G3 BUNGALOW KITCHEN/04.png",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/52 G3 BUNGALOW KITCHEN/05.png",
+            "alt": "room2"
+          }
+      ]
+    },
+
+    {
+      "name" : "52 G3 BUNGALOW DRAWING ROOM",
+      "images" : [
+          {
+            "src": "./images/52 G3 BUNGALOW DRAWING ROOM/06.png",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/52 G3 BUNGALOW DRAWING ROOM/07.png",
+            "alt": "room2"
+          }
+      ]
+    },
+
+    {
+      "name" : "51 RISALI EXTERIOR",
+      "images" : [
+          {
+            "src": "./images/51 RISALI EXTERIOR/01.png",
+            "alt": "room1"
+          }
+      ]
+    },
+
+    {
+      "name" : "50 FORESTA BEDROOM",
+      "images" : [
+          {
+            "src": "./images/50 FORESTA BEDROOM/01.png",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/50 FORESTA BEDROOM/02.png",
+            "alt": "room2"
+          }
+      ]
+      
+    },
+
+    {
+      "name" : "49 FORESTA MASTER BEDROOM",
+      "images" : [
+          {
+            "src": "./images/49 FORESTA MASTER BEDROOM/01.png",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/49 FORESTA MASTER BEDROOM/02.png",
+            "alt": "room2"
+          },
+          {
+            "src": "./images/49 FORESTA MASTER BEDROOM/03.png",
+            "alt": "room2"
+          }
+      ]
+      
+    },
+
+    {
+      "name" : "48 FORESTA KITCHEN",
+      "images" : [
+          {
+            "src": "./images/48 FORESTA KITCHEN/01.png",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/48 FORESTA KITCHEN/02.png",
+            "alt": "room2"
+          },
+          {
+            "src": "./images/48 FORESTA KITCHEN/03.png",
+            "alt": "room2"
+          }
+      ]
+      
+    },
+
+    {
+      "name" : "47 FORESTA DRAWING AND  DINING",
+      "images" : [
+          {
+            "src": "./images/47 FORESTA DRAWING AND  DINING/01.png",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/47 FORESTA DRAWING AND  DINING/02.png",
+            "alt": "room2"
+          },
+          {
+            "src": "./images/47 FORESTA DRAWING AND  DINING/03.png",
+            "alt": "room2"
+          }
+      ]
+      
+    },
+
+    {
+      "name" : "44 WOODEN BLISS GUEST BEDROOM",
+      "images" : [
+          {
+            "src": "./images/44 WOODEN BLISS GUEST BEDROOM/01.png",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/44 WOODEN BLISS GUEST BEDROOM/02.png",
+            "alt": "room2"
+          }
+      ]
+      
+    },
+
+    {
+      "name" : "45 TIMELESS KITCHEN",
+      "images" : [
+          {
+            "src": "./images/45 TIMELESS KITCHEN/01.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/45 TIMELESS KITCHEN/02.jpg",
+            "alt": "room2"
+          },
+          {
+            "src": "./images/45 TIMELESS KITCHEN/03.jpg",
+            "alt": "room2"
+          }
+      ]
+      
+    },
+
+    {
+      "name" : "43 WOODEN BLISS KIDS BEDROOM",
+      "images" : [
+          {
+            "src": "./images/43 WOODEN BLISS KIDS BEDROOM/01.png",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/43 WOODEN BLISS KIDS BEDROOM/02.png",
+            "alt": "room2"
+          },
+          {
+            "src": "./images/43 WOODEN BLISS KIDS BEDROOM/03.png",
+            "alt": "room2"
+          }
+      ]
+      
+    },
+
+    {
+      "name" : "42 WOODEN BLISS MASTER BEDROOM",
+      "images" : [
+          {
+            "src": "./images/42 WOODEN BLISS MASTER BEDROOM/01.png",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/42 WOODEN BLISS MASTER BEDROOM/02.png",
+            "alt": "room2"
+          },
+          {
+            "src": "./images/42 WOODEN BLISS MASTER BEDROOM/03.png",
+            "alt": "room2"
+          }
+      ]
+      
+    },
+
+
+    {
+      "name" : "41 WOODEN BLISS DINING",
+      "images" : [
+          {
+            "src": "./images/41 WOODEN BLISS DINING/01.png",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/41 WOODEN BLISS DINING/02.png",
+            "alt": "room2"
+          },
+          {
+            "src": "./images/41 WOODEN BLISS DINING/03.png",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "41 WOODEN BLISS KITCHEN",
+      "images" : [
+          {
+            "src": "./images/41 WOODEN BLISS KITCHEN/04.png",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/41 WOODEN BLISS KITCHEN/05.png",
+            "alt": "room2"
+          },
+          {
+            "src": "./images/41 WOODEN BLISS KITCHEN/16.png",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "41 WOODEN BLISS DRAWING ROOM",
+      "images" : [
+          {
+            "src": "./images/41 WOODEN BLISS DRAWING ROOM/09.png",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/41 WOODEN BLISS DRAWING ROOM/12.png",
+            "alt": "room2"
+          },
+          {
+            "src": "./images/41 WOODEN BLISS DRAWING ROOM/13.png",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "35 THE CASA",
+      "images" : [
+          {
+            "src": "./images/35 THE CASA/01.png",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/35 THE CASA/02.png",
+            "alt": "room2"
+          },
+          {
+            "src": "./images/35 THE CASA/03.png",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "34 THE CASA",
+      "images" : [
+          {
+            "src": "./images/34 THE CASA/01.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/34 THE CASA/02.jpg",
+            "alt": "room2"
+          },
+          {
+            "src": "./images/34 THE CASA/03.jpg",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "32 THE CASA EXTERIOR",
+      "images" : [
+          {
+            "src": "./images/32 THE CASA EXTERIOR/01.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/32 THE CASA EXTERIOR/02.jpg",
+            "alt": "room2"
+          },
+          {
+            "src": "./images/32 THE CASA EXTERIOR/03.jpg",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "33 THE HARSHIL ROYAL",
+      "images" : [
+          {
+            "src": "./images/33 THE HARSHIL ROYAL/01.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/33 THE HARSHIL ROYAL/02.jpg",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "30 THE HARSHIL ROYAL",
+      "images" : [
+          {
+            "src": "./images/30 THE HARSHIL ROYAL/01.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/30 THE HARSHIL ROYAL/02.jpg",
+            "alt": "room2"
+          },
+          {
+            "src": "./images/30 THE HARSHIL ROYAL/03.jpg",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "29 THE HARSHIL ROYAL",
+      "images" : [
+          {
+            "src": "./images/29 THE HARSHIL ROYAL/01.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/29 THE HARSHIL ROYAL/02.jpg",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "13 THE FARM HOUSE DRAWING ROOM",
+      "images" : [
+          {
+            "src": "./images/13 THE FARM HOUSE DRAWING ROOM/01.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/13 THE FARM HOUSE DRAWING ROOM/02.jpg",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "13 THE FARM HOUSE DINING ROOM",
+      "images" : [
+          {
+            "src": "./images/13 THE FARM HOUSE DINING ROOM/03.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/13 THE FARM HOUSE DINING ROOM/04.jpg",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "13 THE FARM HOUSE MASTER BEDROOM",
+      "images" : [
+          {
+            "src": "./images/13 THE FARM HOUSE MASTER BEDROOM/05.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/13 THE FARM HOUSE MASTER BEDROOM/06.jpg",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "03 PARK VIEW BEDROOM",
+      "images" : [
+          {
+            "src": "./images/03 PARK VIEW BEDROOM/06.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/03 PARK VIEW BEDROOM/08.jpg",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "03 THE AGARWALS GUEST BEDROOM",
+      "images" : [
+          {
+            "src": "./images/03 THE AGARWALS GUEST BEDROOM/07.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/03 THE AGARWALS GUEST BEDROOM/09.jpg",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "05 MOTEL TOWN WASHROOM",
+      "images" : [
+          {
+            "src": "./images/05 MOTEL TOWN WASHROOM/01.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/05 MOTEL TOWN WASHROOM/02.jpg",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "04 THE COLONIAL STUDY ROOM",
+      "images" : [
+          {
+            "src": "./images/04 THE COLONIAL STUDY ROOM/01.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/04 THE COLONIAL STUDY ROOM/02.jpg",
+            "alt": "room2"
+          },
+          {
+            "src": "./images/04 THE COLONIAL STUDY ROOM/03.jpg",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "13 THE DECK VIEW DINING ROOM",
+      "images" : [
+          {
+            "src": "./images/13 THE DECK VIEW DINING ROOM/05.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/13 THE DECK VIEW DINING ROOM/06.jpg",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "14 THE LEGACY WASHROOM",
+      "images" : [
+          {
+            "src": "./images/14 THE LEGACY WASHROOM/01.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/14 THE LEGACY WASHROOM/02.jpg",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "15 MR JAIN KIDS BEDROOM",
+      "images" : [
+          {
+            "src": "./images/15 MR JAIN KIDS BEDROOM/01.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/15 MR JAIN KIDS BEDROOM/02.jpg",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "15 PANDORA KIDS BEDROOM",
+      "images" : [
+          {
+            "src": "./images/15 PANDORA KIDS BEDROOM/04.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/15 PANDORA KIDS BEDROOM/05.jpg",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "12 ALTURA WASHROOM",
+      "images" : [
+          {
+            "src": "./images/12 ALTURA WASHROOM/01.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/12 ALTURA WASHROOM/02.jpg",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "11 THE FARM HOUSE MASTER LOUNGE AREA",
+      "images" : [
+          {
+            "src": "./images/11 THE FARM HOUSE MASTER LOUNGE AREA/01.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/11 THE FARM HOUSE MASTER LOUNGE AREA/02.jpg",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "10 THE ELEGANT POWDER TOILET",
+      "images" : [
+          {
+            "src": "./images/10 THE ELEGANT POWDER TOILET/01.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/10 THE ELEGANT POWDER TOILET/02.jpg",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "01 THE JEWEL DRAWING & DINING",
+      "images" : [
+          {
+            "src": "./images/01 THE JEWEL DRAWING & DINING/01.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/01 THE JEWEL DRAWING & DINING/02.jpg",
+            "alt": "room2"
+          },
+          {
+            "src": "./images/01 THE JEWEL DRAWING & DINING/03.jpg",
+            "alt": "room2"
+          },
+          {
+            "src": "./images/01 THE JEWEL DRAWING & DINING/05.jpg",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "01 THE JEWEL BEDROOM",
+      "images" : [
+          {
+            "src": "./images/01 THE JEWEL BEDROOM/06.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/01 THE JEWEL BEDROOM/07.jpg",
+            "alt": "room2"
+          },
+          {
+            "src": "./images/01 THE JEWEL BEDROOM/08.jpg",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "08 THE DUPLEX DRAWING & DINING",
+      "images" : [
+          {
+            "src": "./images/08 THE DUPLEX DRAWING & DINING/01.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/08 THE DUPLEX DRAWING & DINING/02.jpg",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "08 THE DUPLEX BEDROOM",
+      "images" : [
+          {
+            "src": "./images/08 THE DUPLEX BEDROOM/03.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/08 THE DUPLEX BEDROOM/04.jpg",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "08 THE DUPLEX MASTER BEDROOM",
+      "images" : [
+          {
+            "src": "./images/08 THE DUPLEX MASTER BEDROOM/06.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/08 THE DUPLEX MASTER BEDROOM/07.jpg",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "06 APARTMENT BEDROOM",
+      "images" : [
+          {
+            "src": "./images/06 APARTMENT BEDROOM/01.jpg",
+            "alt": "room1"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "06 APARTMENT MASTER BEDROOM",
+      "images" : [
+          {
+            "src": "./images/06 APARTMENT MASTER BEDROOM/02.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/06 APARTMENT MASTER BEDROOM/03.jpg",
+            "alt": "room2"
+          },
+          {
+            "src": "./images/06 APARTMENT MASTER BEDROOM/04.jpg",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "25 THE TOWERS",
+      "images" : [
+          {
+            "src": "./images/25 THE TOWERS/01.jpg",
+            "alt": "room2"
+          },
+          {
+            "src": "./images/25 THE TOWERS/02.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/25 THE TOWERS/03.jpg",
+            "alt": "room2"
+          },
+          {
+            "src": "./images/25 THE TOWERS/04.jpg",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "28 THE ENCHANTED",
+      "images" : [
+          {
+            "src": "./images/28 THE ENCHANTED/01.png",
+            "alt": "room2"
+          },
+          {
+            "src": "./images/28 THE ENCHANTED/02.png",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/28 THE ENCHANTED/03.png",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "28 THE ENCHANTED TOILET",
+      "images" : [
+          {
+            "src": "./images/28 THE ENCHANTED TOILET/01.jpg",
+            "alt": "room2"
+          },
+          {
+            "src": "./images/28 THE ENCHANTED TOILET/02.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./images/28 THE ENCHANTED TOILET/03.jpg",
+            "alt": "room2"
+          }
+      ]
+    }
+
+
+
+    
+    
+    
+    
+  ]

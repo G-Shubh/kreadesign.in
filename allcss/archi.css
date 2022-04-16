@@ -1,0 +1,79 @@
+@font-face {
+  font-family: myFont;
+  src: url(/content/Vonique-64.ttf);
+}
+
+@font-face {
+  font-family: myFontBold;
+  src: url(/content/Vonique-64-Bold.ttf);
+}
+
+@font-face {
+  font-family: normalFont;
+  src: url(/content/PlayfairDisplay-VariableFont_wght.ttf);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: normalFont;
+  box-sizing: border-box;
+  
+}
+
+div {
+  display: block;
+}
+
+body {
+  background-color: #171717;
+}
+
+h1,
+h2,
+h3 {
+    font-family: myFont;
+    letter-spacing: 2px;
+  color: #be946c;
+  
+}
+
+
+
+.archi-header {
+  background-color: #333;
+}
+
+.archi-header h1 {
+  font-family: myFont;
+
+  padding: 6rem 1rem 2rem 7rem ;
+
+}
+
+
+  
+
+.archi-service-section .service-text {
+  padding: 3rem;
+  line-height: 1.5;
+  text-align: justify;
+  max-width: 90ch;
+}
+
+.service-text h2{
+    padding-block: 2rem;
+    
+}
+
+.service-text p{
+    color: #fff;
+}
+
+.service-text a{
+    color: #be946c;
+}
+
+.service-text a:hover{
+    color: #fff;
+}

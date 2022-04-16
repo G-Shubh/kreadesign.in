@@ -1,26 +1,300 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <link rel="stylesheet" href="content/style.css"/>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <title>KreaDesign.in</title>
-</head>
-<body>
 
-    
-       <div class="video-section">
-           <video id="myVideo" src="/content/Kreadesign-Intro.mp4"></video>
-           <button id="myBtn" onclick="myFunction()">Click Here</button>
-       
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body onload="slider()">
+
+
+    <div class="page-lines">
+        <div class="page-line"></div>
+        <div class="page-line"></div>
+        <div class="page-line"></div>
+        <div class="page-line"></div>
+        <div class="page-line"></div>
+    </div>
+    <div class="page-warp"></div>
+
+    <div class="banner">
+
+        <div class="slider">
+            <img src="images/01.png" id="slideImg" />
         </div>
-   
+
+        <div class="overlay">
+
+            <div class="navbar" id="navbarscroll">
+                <div class="logo">
+                    <img src="images/logo.png" />
+                </div>
+                <div class="menu"></div>
+                <nav id="menu">
+                    <ul>
+                        <li><p class="menuheader">MENU</p></li>
+                        <li><a href="./residential.html">RESIDENTIAL</a></li>
+                        <li><a href="./commercial.html">COMMERCIAL</a></li>
+                        <li><a href="./corporate.html">CORPORATE</a></li>
+                        <li><a href="./contacts.html">CONTACT US</a></li>
+                        <li><a href="./services.html">SERVICES</a></li>
+                    </ul>
+                    <p class="lite-text"></p>
+                </nav>
+
+                <button class="c0141 c0155" id="menubtn" aria-label="toggle-main-menu" tabindex="0"
+                    onclick="menuslide()">
+                    <div class="c0142">
+                        <div class="c0143 c0144" id="slidemenu">
+                            <span onclick="menuopen()">Menu</span><span onclick="menuclose()">Close</span>
+                        </div>
+                    </div>
+                </button>
+            </div>
+            <div class="content">
+                <img class="center-main-image" src="/images/Asset 7.png" alt="">
+                
+            </div>
+
+
+        </div>
+
+
+    </div>
+
+    <div class="banner1">
+        <div class="banner1-grid-container">
+            <div class="banner1-subgrid-container">
+                <h2>ARCHITECTURE, INTERIOR DESIGN, & BESPOKE FURNITURE</h2>
+                <h3>OFFICES IN KOLKATA, RAIPUR, AND SILIGURI - WE WORK PAN INDIA.</h3>
+                <p>KREA consists of 2 unique brands, with its business scope covering all sectors of the world of interior design and architecture and bespoke furniture. By creating projects in our unique and unusual approach style, we aim to become one of the best national designers. 
+                    Over the years KREA DESIGN has been working around the different regions, we have completed many interesting and challenging projects, each time becoming more experienced as specialists in the premium segment of the market. Various tasks, unforeseen difficulties both at the stage of design development and at the stage of implementation, allow you to turn your thinking 360 and learn how to cope with any difficulties.
+                    When developing the design of a future house or apartment, we do not rely on temporary or just fashion trends, but on the individual and unique lifestyle of our clients, their personal style, hobbies and interests. It is the individuality of the customer, expressed in our unique style, that allows us to create timeless designs.</p>
+            </div>
+            <div class="banner1-subgrid-container banner1-image">
+
+                <div class="border-image">
+                </div>
+                    <div class="inner-image">
+                        <img src="images/home-banner-2.png" alt="">
+                    </div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="design-philo-banner">
+        <div class="dp-header">
+            <h2>DESIGN PHILOSOPHY<br>
+                IN TWO SIMPLE TRUTHS</h2>
+        </div>
+        <div class="design-philo-section">
+            <div class="dp-section">
+                <div class="dp-text-section">
+                    <div class="dp-text-01">
+                        <h3>Details</h3>
+                        <p>Our destinctive feature is attention to the little things. there can be no design without details. in order to percieve the project completely, we need all the elements, planned to be placed there, to be included into the project. this is why being an inveterate perfectionist we cultivate the importance of the little things among all the designs.</p>
+                    </div>
+        
+                </div>
+                <div class="dp-image-section">
+                    <div class="dp-image">
+                        <img src="/images/design-philo-1.jpeg" alt="">
+                        <p class="dp-image-sticker">Krea Design</p>
+                    </div>
+                </div>
+            </div>
+            <div class="dp-section dp-section-reverse">
+                <div class="dp-text-section">
+                    <div class="dp-text-02">
+                        <h3>Content</h3>
+                        <p>The main criteria for a successful design is the comfortability of using it. yes, the client first pays attention to the aesthetics of the project, and can estimate how comfortable the solution is only after its realization. our task is to provide you with the best combination of a beautiful shell and the functuality, as a beautiful execution without coziness of using is pointless.</p>
+                    </div>
+        
+                </div>
+                <div class="dp-image-section">
+                    <div class="dp-image">
+                        <img src="/images/design-philo-2.jpeg" alt="">
+                        <p class="dp-image-sticker">Krea Design</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="banner2">
+        <div class="banner2-header">
+            <h2>WHAT WILL WE WORK ON?
+            </h2>
+            <p>choose your type of premises - and you will find out the way we cooperate </p>
+        </div>
+        <div class="grid-container">
+            <a href="./residential.html" class="subgrid-container">
+                <div class="subgrid-item">
+                    <h3>Residential <br>Design</h3>
+                    <p>We, at KREA DESIGN provide exclusive design for all residential projects, apartments, bungalows, and villas. Our team is committed to deliver the best designs for your homes.</p>
+                </div>
+            </a>
+            <a href="./commercial.html" class="subgrid-container">
+                <div class="subgrid-item">
+                    <h3>Commercial <br>Design</h3>
+                    <p>Our studio is specialized at design of all type of business and commercial projects including restaurant, retail outlets, hotels. </p>
+                </div>
+            </a>
+            <a href="./corporate.html" class="subgrid-container">
+                <div class="subgrid-item">
+                    <h3>Corporate <br>Design</h3>
+                    <p>Providing quality and innovative design for all corporate offices including all private and public sectors determining a successful future.</p>
+                </div>
+            </a>
+            
+        </div>
+    </div>
+
+    <div class="craftmen-banner">
+        <p class="craftmen-text">“EVERY MORNING ONE OF OUR DESIGNERS
+            AND CRAFTSMEN OFFERS THEIR CREATIVIY
+            AND THEIR ART TO MAKE EACH DESIGN AND
+            PRODUCT UNIQUE"
+            <span>TEAM KREA</span>
+        </p>
+    </div>
+
+    <div class="portfolio-section">
+        <div class="portfolio-header">
+            <h2>WHAT'S GOING ON IN<br>KREA DESIGN</h2>
+            <p>News, interesting facts, and inspiration from KREA</p>
+        </div>
+        <div class="portfolios">
+            <div class="highlight-portfolio">
+
+                <a class="image-item" data-modal="true" data-gallery="60 THE APARTMENTS"
+                    aria-label="Open Food image gallery">
+                    <div class="portfolio-img-container">
+                        <p class="portfolio-sticker">EXTERIOR</p>
+                        <img src="./images/60 THE APARTMENTS/01.png" width="100%" height="100%" alt="" class="portfolio-img">
+                    </div>
+                    <div class="portfolio-info">
+                        <h4>PROjECT: <span>THE APARTMENTS</span><br>
+                            <span class="project-subtitle">LOCATION: KOLKATA</span>
+                        </h4>
+                    </div>
+
+                </a>
+                <div class="dummy">
+                    <p>The recognizable features of our this project in KOLKATA, such as sliding panoramic windows, beige porcelain stoneware and slate, wooden exterior tile work. Balconies with metal jali and wooden partion pannel that creates a comfortable zone of shade and coolness on a hot afternoon, perfectly match the idea of a apartment house.
+
+                        Our unique design technologies and stylistic techniques allow us to build houses in accordance with the latest trends, providing comfort and energy balance. We combine your preferences and the most exceptional wishes in convenient layouts, select materials and high-quality engineering systems for temperature conditions. Start designing your dream home now, at the best price.</p>
+                </div>
+
+            </div>
+
+            <div class="highlight-portfolio">
+
+                <a class="image-item" data-modal="true" data-gallery="58 PUSHP APARTMENTS GUEST BEDROOM"
+                    aria-label="Open Food image gallery">
+                    <div class="portfolio-img-container">
+                        <p class="portfolio-sticker"> GUEST BEDROOM</p>
+                        <img src="./images/58 PUSHP APARTMENTS GUEST BEDROOM/01.png" width="100%" height="100%" alt="" class="portfolio-img">
+                    </div>
+                    <div class="portfolio-info">
+                        <h4>PROjECT: <span>PUSHP APARTMENTS</span><br>
+                            <span class="project-subtitle">LOCATION: CHATTISGARH</span>
+                        </h4>
+                    </div>
+
+
+                </a>
+                <div class="dummy">
+                    <p>In any interior, the colour combination must be balanced, and rich accents are very much
+                        welcome! The secret hides in the unique taste when it comes to choosing shades and different
+                        textures for just one room. In this luxurious bedroom, alongside with a grey-beige palette
+                        and dark walnut, we used two perfectly matching colours - pastel green and champagne gold.
+                    </p>
+                </div>
+
+            </div>
+
+            <div class="highlight-portfolio">
+
+                <a class="image-item" data-modal="true" data-gallery="59 PUSHP APARTMENTS KIDS ROOM"
+                    aria-label="Open Food image gallery">
+                    <div class="portfolio-img-container">
+                        <p class="portfolio-sticker">KIDS BEDROOM</p>
+                        <img src="./images/59 PUSHP APARTMENTS KIDS ROOM/01.png" width="100%" height="100%" alt="" class="portfolio-img">
+                    </div>
+                    <div class="portfolio-info">
+                        <h4>PROjECT: <span>PUSHP APARTMENTS</span><br>
+                            <span class="project-subtitle">LOCATION: CHATTISGARH</span>
+                        </h4>
+                    </div>
+
+                </a>
+                <div class="dummy">
+                    <p>You can quickly lose interest in overly stylized pieces of furniture, but if a child is really passionate about something, why not give him a freedom of expression! The priority task of the design is to create a functional interior that will change with the growing child and will certainly cheer up after a busy school day.
+
+                        Every parent wants their child to have the very best. Make the fairy dreams real fairytale dreams of your lived ones come true with a new cozy home atmosphere! The interior that will set you in a positive mood. Take a look at bright and stylish bedrooms for a child in our new selection!</p>
+                </div>
+
+            </div>
+
+            <div class="highlight-portfolio">
+
+                <a class="image-item" data-modal="true" data-gallery="57 PUSHP APARTMENTS MASTER BEDROOM"
+                    aria-label="Open Food image gallery">
+                    <div class="portfolio-img-container">
+                        <p class="portfolio-sticker">MASTER BEDROOM</p>
+                        <img src="./images/57 PUSHP APARTMENTS MASTER BEDROOM/04.png" width="100%" height="100%" alt="" class="portfolio-img">
+                    </div>
+                    <div class="portfolio-info">
+                        <h4>PROjECT: <span>PUSHP APARTMENTS</span><br>
+                            <span class="project-subtitle">LOCATION: CHATTISGARH</span>
+                        </h4>
+                    </div>
+
+                </a>
+                <div class="dummy">
+                    <p>Take a look at the master bedroom area in this exclusive apartment, one of our most favourite projects. As we maintain a balance between modern and ultra-fashionable details, we can achieve functionality and atmosphere of refined luxury.
+
+                        The highlight of this luxurious bedroom in our unique style is the bed back pannel which is designed by grey marbel with groves and champagne gold border. It perfectly matches the overall color scheme and also the t.v unit which is designed with same material and color scheme, overall creates an interesting accent.
+                        
+                        Personalised interior design by KREA DESIGN is the perfect opportunity to change your lifestyle for the better, surround yourself with success and prosperity, create a new quality of life and maintain a real happiness.</p>
+                </div>
+
+            </div>
+
+
+        </div>
+
+        <div class="view-more"><a href="/viewall.html">View More</a></div>
+        
+
+
+
+
+        <script src="readMoreJS.min.js"></script>
+        <script>
+            $readMoreJS.init({
+                target: '.dummy p',
+                numOfWords: 12,
+                toggle: true,
+                moreLink: 'read more ...',
+                lessLink: 'read less'
+            });
+        </script>
+    </div>
+
     <div class="banner-3">
+        <div class="contacts-behind-border"></div>
         <div class="callback-section banner-3-section">
             <h3>We will call you back</h3>
-            <p>answer the questions</p>
+            <p>answer the questions,<br>
+                suggest variants</p>
         </div>
         <div class="form-section banner-3-section">
             <form name="contact" method="POST" data-netlify="true">
@@ -52,52 +326,170 @@
                     </span>
                 </div>
 
+
                 <input type="submit" value="Submit">
             </form>
         </div>
     </div>
+    </div>
+
+    
+
     <footer class="footer-section">
 
-        <div class="contact">
-            <h3>Contact Us</h3>
-            
+        <div class="footer-links">
+            <div class="link-col-1 footer-link">
+                <a href="./portfolio.html">Portfolio</a>
+                <a href="./price.html">Price</a>
+                <a href="./contacts.html">Contacts</a>
+            </div>
+            <div class="link-col-2 footer-link">
+                <a href="./about.html">About us</a>
+                <a href="./services.html">Services</a>
+            </div>
+            <div class="link-col-3 footer-link">
+                <a href="./residentail.html">Residential Design</a>
+                <a href="./commercial.html">Commercial Design</a>
+                <a href="./corporate.html">Corporate Design</a>
+
+
+            </div>
         </div>
 
         <div class="footer-contact">
- 
-            <div class="footer-contact-info">
-                
+            <div class="footer-contact-support">
                 <a href="tel:+918392068290 ">+91-8392068290 </a>
                 &nbsp;|&nbsp;
                 <a href="mailto:studio@kreadesign.in">studio@kreadesign.in</a>
-                &nbsp;|&nbsp;
-                <a href="https://instagram.com/kreadesign.in?utm_medium=copy_link" class="fa fa-instagram"> Instagram</a>
+                <span>&nbsp;|&nbsp;</span>
+                <p>contact</p>
             </div>
+
             <div class="footer-contact-address">
                 <span class="white">Address: </span>
-                <p class="address"> Station Feeder, Ward 25, Saktigarh, Siliguri, West Bengal - 734005</p>
+                <p class="address"> Station Feeder, Ward 25, Saktigarh,
+                    Siliguri, West Bengal - 734005</p>
             </div>
-  
         </div>
 
         <div class="footer-trademark">
-            <p class="trademark">&#169; 2022 Krea Design</p>
+            <p class="trademark">© 2022 Krea Design | Interior | Furniture</p>
         </div>
+
     </footer>
+
+
+
+
+
+
+
+
+    <script>
+        var slideImg = document.getElementById("slideImg");
+        var images = new Array(
+            "images/01.png",
+            "images/02.png",
+            "images/03.png",
+            "images/04.png",
+            "images/05.png",
+            "images/06.png"
+        );
+        var len = images.length;
+        var i = 0;
+        function slider() {
+            if (i > len - 1) {
+                i = 0;
+            }
+            slideImg.src = images[i];
+            i++;
+            setTimeout("slider()", 6000);
+        }
+
+        var menu = document.getElementById("menu");
+
+        /**function closemenu() {
+              menu.style.top = "-100vh";
+          }
+  
+          function openmenu() {
+              menu.style.top = "0";
+          }**/
+
+        var slideY = document.getElementById("slidemenu");
+        var menubtnn = document.getElementById("menubtn");
+
+        /**function menuslide() {
+  
+              if (slideY.style.transform = "translateY(-50%)") {
+                  slideY.style.transform = "translateY(-50%)";
+                  menubtnn.style.border = "2px solid black";
+                  slideY.style.color = "black";
+              }
+  
+  
+  
+              if(menu.style.top==="-100vh")
+              {
+                  menu.style.top = "0vh";
+              }
+              if()
+              {
+                  menu.style.top = "-100vh"
+              }
+  
+          }**/
+
+        function menuslide() {
+            if (menu.style.top === "0vh") {
+                menu.style.top = "-100vh";
+                slideY.style.transform = "translateY(0%)";
+                menubtnn.style.border = "2px solid white";
+                menubtnn.style.background = "white";
+                slideY.style.color = "black";
+                menubtnn.style.background = ":hover"
+            }
+            else {
+                menu.style.top = "0vh";
+                slideY.style.transform = "translateY(-50%)";
+                menubtnn.style.border = "2px solid white";
+                menubtnn.style.background = "transparent";
+                slideY.style.color = "white";
+            }
+        }
+
+        /**function menuopen() {
+            menu.style.top = "0vh";
+            slideY.style.transform = "translateY(-50%)";
+            menubtnn.style.border = "2px solid black";
+            menubtnn.style.background = "transparent";
+            slideY.style.color = "black";
+        }
+
+        function menuclose() {
+            menu.style.top = "-100vh";
+            slideY.style.transform = "translateY(0%)";
+            menubtnn.style.border = "2px solid white";
+            slideY.style.color = "white";
+        }**/
+
+        var prevScrollpos = window.pageYOffset;
+        window.onscroll = function () {
+            var currentScrollPos = window.pageYOffset;
+            if (prevScrollpos > currentScrollPos) {
+                document.getElementById("navbarscroll").style.top = "0";
+            } else {
+                document.getElementById("navbarscroll").style.top = "-100px";
+            }
+            prevScrollpos = currentScrollPos;
+        };
+
+
+
+
+
+
+    </script>
 </body>
 
-<script>
-    var video = document.getElementById("myVideo");
-    var btn = document.getElementById("myBtn");
-    
-    function myFunction() {
-      if (video.paused) {
-        video.play();
-        btn.innerHTML = "Pause";
-      } else {
-        video.pause();
-        btn.innerHTML = "Play";
-      }
-    }
-    </script>
 </html>
