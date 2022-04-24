@@ -1025,7 +1025,266 @@
             "alt": "room2"
           }
       ]
+    },
+
+
+    {
+      "name" : "31 THE RESORT PRIVATE DINING",
+      "images" : [
+          {
+            "src": "./commercial images/31 THE RESORT PRIVATE DINING/04.jpg",
+            "alt": "room2"
+          },
+          {
+            "src": "./commercial images/31 THE RESORT PRIVATE DINING/05.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./commercial images/31 THE RESORT PRIVATE DINING/06.jpg",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "31 THE RESORT RESTURANT DINING",
+      "images" : [
+          {
+            "src": "./commercial images/31 THE RESORT RESTURANT DINING/01.jpg",
+            "alt": "room2"
+          },
+          {
+            "src": "./commercial images/31 THE RESORT RESTURANT DINING/02.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./commercial images/31 THE RESORT RESTURANT DINING/07.jpg",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "36 THE RESORT EXTERIOR",
+      "images" : [
+          {
+            "src": "./commercial images/37 APICURE BAR AREA/27.jpg",
+            "alt": "room2"
+          },
+          {
+            "src": "./commercial images/37 APICURE BAR AREA/29.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./commercial images/37 APICURE BAR AREA/32.jpg",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "37 APICURE BAR AREA",
+      "images" : [
+          {
+            "src": "./commercial images/37 APICURE BAR AREA/27.jpg",
+            "alt": "room2"
+          },
+          {
+            "src": "./commercial images/37 APICURE BAR AREA/29.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./commercial images/37 APICURE BAR AREA/32.jpg",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "37 APICURE EXTERIOR",
+      "images" : [
+          {
+            "src": "./commercial images/37 APICURE EXTERIOR/07.jpg",
+            "alt": "room2"
+          },
+          {
+            "src": "./commercial images/37 APICURE EXTERIOR/08.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./commercial images/37 APICURE EXTERIOR/09.jpg",
+            "alt": "room2"
+          },
+          {
+            "src": "./commercial images/37 APICURE EXTERIOR/10.jpg",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "37 APICURE EXTERIOR AND LANDSCAPE",
+      "images" : [
+          {
+            "src": "./commercial images/37 APICURE EXTERIOR AND LANDSCAPE/01.jpg",
+            "alt": "room2"
+          },
+          {
+            "src": "./commercial images/37 APICURE EXTERIOR AND LANDSCAPE/02.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./commercial images/37 APICURE EXTERIOR AND LANDSCAPE/03.jpg",
+            "alt": "room2"
+          },
+          {
+            "src": "./commercial images/37 APICURE EXTERIOR AND LANDSCAPE/04.jpg",
+            "alt": "room2"
+          },
+          {
+            "src": "./commercial images/37 APICURE EXTERIOR AND LANDSCAPE/05.jpg",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "37 APICURE LANDSCAPE",
+      "images" : [
+          {
+            "src": "./commercial images/37 APICURE LANDSCAPE/11.jpg",
+            "alt": "room2"
+          },
+          {
+            "src": "./commercial images/37 APICURE LANDSCAPE/12.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./commercial images/37 APICURE LANDSCAPE/14.jpg",
+            "alt": "room2"
+          },
+          {
+            "src": "./commercial images/37 APICURE LANDSCAPE/15.jpg",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "37 APICURE RESTURANT",
+      "images" : [
+          {
+            "src": "./commercial images/37 APICURE RESTURANT/20.jpg",
+            "alt": "room2"
+          },
+          {
+            "src": "./commercial images/37 APICURE RESTURANT/22.jpg",
+            "alt": "room1"
+          },
+          {
+            "src": "./commercial images/37 APICURE RESTURANT/28.jpg",
+            "alt": "room2"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "39 VEDANTA MEETING ROOM",
+      "images" : [
+          {
+            "src": "./corporate images/39 VEDANTA MEETING ROOM/03.png",
+            "alt": "room2"
+          },
+          {
+            "src": "./corporate images/39 VEDANTA MEETING ROOM/05.png",
+            "alt": "room1"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "39 VEDANTA RECEPTION",
+      "images" : [
+          {
+            "src": "./corporate images/39 VEDANTA RECEPTION/01.png",
+            "alt": "room2"
+          },
+          {
+            "src": "./corporate images/39 VEDANTA RECEPTION/02.png",
+            "alt": "room1"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "39 VEDANTA WORKSTATION",
+      "images" : [
+          {
+            "src": "./corporate images/39 VEDANTA WORKSTATION/3904.png",
+            "alt": "room2"
+          },
+          {
+            "src": "./corporate images/39 VEDANTA WORKSTATION/4004.png",
+            "alt": "room1"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "40 VEDANTA CABIN",
+      "images" : [
+          {
+            "src": "./corporate images/40 VEDANTA CABIN/01.png",
+            "alt": "room2"
+          },
+          {
+            "src": "./corporate images/40 VEDANTA CABIN/01.png",
+            "alt": "room1"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "40 VEDANTA MEETING ROOM",
+      "images" : [
+          {
+            "src": "./corporate images/40 VEDANTA MEETING ROOM/03.png",
+            "alt": "room2"
+          },
+          {
+            "src": "./corporate images/40 VEDANTA MEETING ROOM/06.png",
+            "alt": "room1"
+          }
+      ]
+    },
+
+
+    {
+      "name" : "40 VEDANTA WORKSTATION",
+      "images" : [
+          {
+            "src": "./corporate images/40 VEDANTA WORKSTATION/07.png",
+            "alt": "room2"
+          },
+          {
+            "src": "./corporate images/40 VEDANTA WORKSTATION/08.png",
+            "alt": "room1"
+          }
+      ]
     }
+
 
 
 
