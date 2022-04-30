@@ -31,13 +31,8 @@ body {
 }
 
 
-.center-main-image{
-  width: 100%;
-}
 
-.content img{
-  margin: auto;
-}
+
 
 /**@media (max-width: 1500px){
    .page-wrap {
@@ -168,10 +163,17 @@ body {
 
 .content {
   width: 80%;
-  margin: 160px auto 0;
-  text-align: center;
+  padding-top: 35vh;
+  margin: 0 auto;
   color: #dfdfdf;
 }
+
+
+.center-main-image{
+  margin: auto;
+  width: 100%;
+}
+
 
 .content h1 {
   /* background-color: #17171761; */
@@ -568,13 +570,15 @@ body button {
 .banner2 {
   
   max-width: 1200px;
+  
   color: white;
   background-color: #171717;
-  margin: 0 auto;
+  margin: 3rem auto;
   position: relative;
   display: grid;
   align-content: center;
   align-items: center;
+  
 }
 
 .banner2-header{
@@ -1425,8 +1429,15 @@ a:active {
 }
 
 .text-price {
+  padding: 5rem 1rem;
   color: #fff;
-  margin: 3em 7em 5em 10em;
+  
+}
+
+.price-text-section{
+  max-width: 1200px;
+  color: #fff;
+  margin: 0 auto;
 }
 
 .subtitle {
@@ -1435,10 +1446,13 @@ a:active {
 }
 
 .price-container {
+  max-width: 1200px;
+  margin: 0 auto;
   background-color: #171717;
   padding: 10% 5%;
   height: auto;
   display: flex;
+  justify-content: space-evenly;
   gap: 2em;
   flex-wrap: wrap;
   flex-direction: row;
@@ -1451,6 +1465,10 @@ a:active {
 
 .data-col {
   min-width: 500px;
+}
+
+.pie-col{
+  margin: 0 auto;
 }
 
 @media only screen and (max-width: 700px) {
@@ -1561,7 +1579,9 @@ a:active {
 }
 
 .ri-container {
-  padding: 2rem 1rem 5rem 0rem;
+  max-width: 1200px;
+  
+  margin: 5rem auto;
   display: flex;
   gap: 4rem;
   justify-content: flex-start;
@@ -1574,7 +1594,7 @@ a:active {
 
 .ri-container-img {
   background-image: url(/images/residential-main.jpeg);
-  height: 400px;
+  height: 500px;
   background-position: 50% 50%;
   background-size: cover;
   display: flex;
@@ -1586,6 +1606,7 @@ a:active {
   margin-top: 1.5rem;
   min-width: 350px;
   max-width: 800px;
+  margin-top: 3rem;
 }
 
 .ri-container-img::after {
@@ -1604,7 +1625,7 @@ a:active {
 
 .com-container-img {
   background-image: url(/images/commercial-main.jpeg);
-  height: 400px;
+  height: 500px;
   background-position: 50% 50%;
   background-size: cover;
   display: flex;
@@ -1616,6 +1637,7 @@ a:active {
   margin-top: 1.5rem;
   min-width: 350px;
   max-width: 800px;
+  margin-top: 6rem;
 }
 
 .com-container-img::after {
@@ -1634,7 +1656,7 @@ a:active {
 
 .cor-container-img {
   background-image: url(/images/corporate-main.jpeg);
-  height: 400px;
+  height: 500px;
   background-position: 50% 50%;
   background-size: cover;
   display: flex;
@@ -1646,6 +1668,7 @@ a:active {
   margin-top: 1.5rem;
   min-width: 350px;
   max-width: 800px;
+  margin-top: 3rem;
 }
 
 .cor-container-img::after {
@@ -2503,18 +2526,21 @@ a:active {
 
 /* start of general */
 
+
+
+
 .ad-banner{
-  padding: 3rem;
-  
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 .ad-flex-section{
   overflow: hidden;
   padding: 5rem 2rem;
   display: flex;
-  gap: 4rem;
+  gap: 5rem;
   flex-wrap: wrap;
-  justify-content: space-evenly;
+  justify-content: space-between;
   align-items: center;
 
 }
@@ -2561,7 +2587,7 @@ a:active {
   content: "";
   display: block;
 
-  padding: 40%;
+  padding: 35%;
   z-index: -1;
   background-repeat: no-repeat;
 
@@ -2569,13 +2595,13 @@ a:active {
   border-image-source: url(images/modified023.png);
   border-image-slice: 100;
   position: absolute;
-  bottom: -400px;
-  right: -150px;
+  bottom: -350px;
+  right: -100px;
 }
 
 
 .ad-flex-image > img{
-  width: 150%;
+  width: 130%;
   height: 90%;
   object-fit: cover;
   position: relative;
