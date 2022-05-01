@@ -484,12 +484,13 @@ body button {
   background-color: #171717;
   color: white;
   
-  margin: 0 auto;
-  max-width: 1200px;
+  
 
 }
 
 .banner1-grid-container {
+  margin: 5rem auto;
+  max-width: 1200px;
   display: grid;
   gap: 5em;
   
