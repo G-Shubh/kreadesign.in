@@ -484,13 +484,12 @@ body button {
   background-color: #171717;
   color: white;
   
-  
+  margin: 0 auto;
+  max-width: 1200px;
 
 }
 
 .banner1-grid-container {
-  margin: 5rem auto;
-  max-width: 1200px;
   display: grid;
   gap: 5em;
   
@@ -1209,7 +1208,7 @@ a:active {
 .contact-behind-border::before {
   content: "";
   display: block;
-  padding: 60%;
+  padding: 50%;
   z-index: 0;
   background-repeat: no-repeat;
 
@@ -1217,7 +1216,7 @@ a:active {
   border-image-source: url(images/modified023.png);
   border-image-slice: 100;
   position: absolute;
-  top: 60px;
+  top: 160px;
   right: 30px;
 }
 
@@ -1225,7 +1224,7 @@ a:active {
   .contact-behind-border::before {
     content: "";
     display: block;
-    padding: 60%;
+    padding: 40% 100%;
     z-index: 0;
     background-repeat: no-repeat;
 
@@ -1233,7 +1232,7 @@ a:active {
     border-image-source: url(images/modified023.png);
     border-image-slice: 100;
     position: absolute;
-    top: -1px;
+    top: 100px;
     left: -110px;
   }
 }
@@ -1306,30 +1305,24 @@ a:active {
   margin-top: -20px;
   max-width: 450px;
 }
-@media only screen and (max-width: 700px) {
-  .contacts-heading {
-    height: 4rem;
+@media only screen and (max-width: 800px) {
+  .contacts-heading > h1 {
+    padding: 7rem 2rem 1rem 2rem !important;
   }
-  .blackbar {
-    height: 7rem;
-    background-color: #171717;
-  }
+  
 }
 
 .contacts-heading {
-  height: 7rem;
-
-  display: flex;
-  align-items: center;
-  background-color: #2f2f2f;
+  background-image:url(./images/modified023.png);
 }
 .contacts-heading > h1 {
-  font-family: "Merriweather", "Times New Roman", serif;
-  font-weight: 400;
-  margin: 0;
-  line-height: 1.5;
-  padding-left: 15%;
-  color: #fff;
+  font-family: myFont;
+  font-size: 3rem;
+  color: #be946c;
+  
+  padding: 3rem 2rem 1rem 8rem;
+  letter-spacing: 4px;
+
 }
 
 .csw {
@@ -1563,9 +1556,10 @@ a:active {
 .ri-hero-heading > h1 {
   font-family: myFont;
   font-size: 2rem;
+  color: #be946c;
   
   
-  padding: 3rem 0rem 1rem 8rem;
+  padding: 3rem 2rem 1rem 8rem;
   letter-spacing: 4px;
 }
 
@@ -1573,7 +1567,7 @@ a:active {
 
   .ri-hero-heading > h1 {
     
-    padding: 7rem 0rem 1rem 4rem;
+    padding: 7rem 2rem 1rem 2rem;
     
   }
 
@@ -2291,12 +2285,12 @@ a:active {
 
 .services-header{
   
-  background-color: #333;
-  padding-left: 7rem;
+  background-image:url(./images/modified023.png);
+  
 }
 
 .services-header h1{
-  padding: 7rem 1rem 1rem 0rem;
+  padding: 3rem 2rem 1rem 8rem;
   font-family: myFont;
   color: #be946c;
   font-size: 3rem;
@@ -2307,8 +2301,23 @@ a:active {
 
 .services-header p{
   font-size: 1.5rem;
-  padding: 0rem 1rem 1rem 0rem;
+  padding: 1rem 2rem 1rem 8rem;
 }
+
+@media only screen and (max-width: 800px) {
+
+  .services-header > h1 {
+    
+    padding: 7rem 2rem 1rem 2rem;
+    
+  }
+  .services-header p{
+    
+    padding: 1rem 2rem 1rem 2rem;
+  }
+
+}
+
 
 
 .services-grid-container{
