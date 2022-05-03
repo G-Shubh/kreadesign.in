@@ -444,7 +444,7 @@ body button {
   min-width: 400px;
   max-width: 500px;
   position: relative;  
-
+  margin: 1.1rem 1.1rem;
 }
 
 
@@ -503,7 +503,7 @@ body button {
 @media (min-width: 600px) {
   .banner1-grid-container {
     grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
-    min-width: 80vw;
+    /*min-width: 80vw;*/
   }
 }
 @media (max-width: 300px) {
@@ -535,6 +535,10 @@ body button {
   text-align: justify;
   font-size: 1rem;
   line-height: 2rem;
+}
+
+.banner1-image{
+ margin-top:8rem; 
 }
 
 .border-image {
