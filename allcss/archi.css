@@ -40,16 +40,31 @@ h3 {
 
 
 
+
+
 .archi-header {
-  background-color: #333;
+  background-image:url(../images/modified023.png);
 }
 
-.archi-header h1 {
+.archi-header > h1 {
   font-family: myFont;
+  font-size: 2rem;
+  
+  
+  padding: 3rem 2rem 1rem 8rem;
+  letter-spacing: 4px;
+}
 
-  padding: 6rem 1rem 2rem 7rem ;
+@media only screen and (max-width: 800px) {
+
+  .archi-header > h1 {
+    
+    padding: 7rem 2rem 1rem 2rem;
+    
+  }
 
 }
+
 
 
   
