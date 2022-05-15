@@ -389,7 +389,7 @@ body button {
   justify-content: space-around;
   align-items: center;
   flex-wrap: wrap;
-  padding: 2rem .2rem;
+  padding: 3rem .2rem;
 }
 
 @media only screen and (min-width:800px) {
@@ -720,7 +720,7 @@ body button {
 /* start of craftmen section */
 
 .craftmen-banner{
-  width: 80vw;
+  max-width: 1600px;
   padding: 5rem 0rem;
   margin: auto;
   
@@ -963,11 +963,42 @@ input[type="textfield"] + span {
 
 /* end textfield animation */
 
+.social-icons{
+  padding-top: 1rem;
+  justify-content: center;
+  
+}
+
+.fa {
+  padding: 0px 20px;
+  
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
 .footer-section {
   height: auto;
   background-color: #171717;
   color: white;
-
+  font-size: 1.5rem;
   padding: 1em;
   height: auto;
   display: flex;
@@ -1022,14 +1053,14 @@ a:active {
 }
 
 .footer-link > * {
-  font: 400 23px/1.2 Merriweather, "Times New Roman", serif;
+  
   padding: 0.25em;
 }
 
 .link-col-1 > a:link {
-  font: 400 23px/1.2 Merriweather, "Times New Roman", serif;
+  
   color: #cba37c;
-  font-size: 24px;
+  
 }
 
 .link-col-1 > a:hover {
@@ -1037,7 +1068,7 @@ a:active {
 }
 
 .footer-contact {
-  font: 400 18px/2 "Muller", "Verdana", "sans-serif";
+  
 }
 
 @media only screen and (max-width: 600px) {
@@ -1056,7 +1087,7 @@ a:active {
   display: flex;
   align-self: center;
   align-items: center;
-  padding: 1em;
+  
   flex: auto;
   flex-grow: 1;
   flex-shrink: 1;
@@ -1072,6 +1103,7 @@ a:active {
 }
 
 .footer-contact-support {
+  
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -1088,7 +1120,7 @@ a:active {
 }
 
 .footer-contact-address {
-  padding: 1em;
+  padding-top:1rem;
   display: flex;
   justify-content: center;
   align-items: flex-start;
@@ -1099,9 +1131,11 @@ a:active {
 }
 
 .footer-trademark {
+  padding-top: 1rem;
+  font-size: 1.25rem;
   display: flex;
   justify-content: center;
-  font-family: Merriweather;
+  text-align: center;
 }
 
 /* PRICE PAGE CSS */
@@ -1153,7 +1187,7 @@ a:active {
 }
 
 .contact-banner-right {
-  max-width: 350px;
+  max-width: 550px;
   position: relative;
   display: grid;
   justify-items: start;
@@ -1161,17 +1195,17 @@ a:active {
 
 
 .contact-image-container {
-  max-width: 200px;
+  max-width: 400px;
   height: auto;
 }
 
 .contact-img-right {
   object-fit: cover;
-  object-position: left top;
+  object-position: center top;
 }
 
 .contact-image-container::before {
-  width: 300px;
+  width: 500px;
   content: "";
   position: absolute;
   left: 70px;
@@ -1300,7 +1334,7 @@ a:active {
 }
 
 .working-contact-caption {
-  font-family: "Muller", "Verdana", sans-serif;
+  z-index: 2;
   color: rgb(118, 118, 118);
   font-size: 20px;
   margin-top: 15px;
@@ -1333,6 +1367,7 @@ a:active {
 .csw {
   display: block;
   min-width: 300px;
+  
 }
 
 /* PRICE CSS CODE */
@@ -1973,6 +2008,7 @@ a:active {
 }
 
 .portfolio-info > h4 {
+  color: #be946c;
   font-family: myFont;
   letter-spacing: 2px;
   font-size: 1rem;
@@ -1981,20 +2017,22 @@ a:active {
 .portfolio-info > h4 > span {
   font-family: normalFont !important;
   font-weight: 200;
+  color: #be946c;
 }
-
-.project-subtitle {
-  font-family: normalFont;
-  font-size: 1rem;
-  color: white;
-  font-weight: 100;
-}
-
 
 .portfolio h4 span {
   font-family: myFont;
   letter-spacing: 2px;
 }
+
+.project-subtitle {
+  font-family: normalFont;
+  font-size: 1rem;
+  color: white !important;
+  font-weight: 100;
+}
+
+
 
 .portfolio p {
   padding: 0.5rem;
@@ -2047,11 +2085,11 @@ a:active {
 .advantage-section{
   
   color: #fff;
-  max-width: 1600px;
+ 
   
   display: flex;
   gap: 2rem;
-  justify-content:space-around;
+  justify-content:center;
   align-items: center;
 
   flex-wrap: wrap;
@@ -2060,6 +2098,8 @@ a:active {
 }
 
 .a-text-section{
+  display: grid;
+  place-items: center;
   padding: 2rem 1rem 2rem 3rem;
 }
 
@@ -2068,12 +2108,13 @@ a:active {
   
   letter-spacing: 2px;
   color: #be946c;
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   text-transform: uppercase;
-  padding: 2rem 0rem;
+  padding: 4rem 0rem;
 }
 
 .a-header-row{
+  
   font-family: normalFont;
   color: #ffffff;
   font-size: 1.5rem;
@@ -2103,7 +2144,7 @@ a:active {
         left: 0;
         bottom: 0;
         height: 5px;
-        width: 15%;
+        width: 100%;
         border-bottom: 3px solid rgb(255, 255, 255);
 }
 
@@ -2238,9 +2279,19 @@ a:active {
 
 .a-image {
   object-fit: cover;
-  object-position: center top;
+  object-position: 70% top;
   position: relative;
 }
+
+.a-image-commercial{
+  object-position: 40% top;
+}
+
+.a-image-corporate{
+  object-position: 36% top;
+}
+
+
 
 .a-sticker{
   color: #be946c;
@@ -2326,7 +2377,7 @@ a:active {
 
 
 .services-grid-container{
-  
+  padding: 4rem 0rem;
   display: grid;
   align-items: center;
   gap: 5rem;
@@ -2545,7 +2596,7 @@ a:active {
 
 
 .ad-banner{
-  max-width: 1200px;
+  max-width: 1400px;
   margin: 0 auto;
 }
 
@@ -2591,7 +2642,7 @@ a:active {
 
 .ad-flex-image{
   
-  width: 400px;
+  width:550px;
 }
 
 .ad-flex-border-image{
@@ -2602,16 +2653,16 @@ a:active {
   content: "";
   display: block;
 
-  padding: 35%;
-  z-index: -1;
+  padding: 150px 230px;
+  z-index:-1;
   background-repeat: no-repeat;
 
   border: 30px solid transparent;
   border-image-source: url(images/modified023.png);
   border-image-slice: 100;
   position: absolute;
-  bottom: -350px;
-  right: -100px;
+  top: 100px;
+  left: 40px;
 }
 
 
